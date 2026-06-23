@@ -52,4 +52,4 @@ Payment Mode Details
 
 9. Screenshot/demos
 
-   Example: 
+   Example: https://github.com/Rakshakushwaha/Sales-Dashboard-/blob/main/Screenshot%202026-06-23%20172348.png
